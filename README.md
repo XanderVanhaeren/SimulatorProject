@@ -1,2 +1,2 @@
-# BobrSim
+# Simulator
 Simulation Project
